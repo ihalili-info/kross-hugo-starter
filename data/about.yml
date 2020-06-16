@@ -19,7 +19,7 @@ team:
   enable: true
   title: Our Team
   team_member:
-  - title: Jack Schenziwe
+  - title: Ilir Halili
     image: images/team/member-1.png
     designation: Project Manager
   - title: Julias Carlie
